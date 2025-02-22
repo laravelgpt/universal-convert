@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8092eb1f-b737-4bc5-a216-e5f241dff660)
+
 # Universal File Converter
 
 A simple and user-friendly GUI application to convert videos, audio files, images, and documents into different formats using FFmpeg and other libraries.
