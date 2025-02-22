@@ -23,7 +23,7 @@ Ensure you have the following dependencies installed before running the applicat
 ## Installation
 Clone this repository and navigate to the project directory:
 ```sh
-git clone https://github.com/yourusername/universal-file-converter.git
+git clone https://github.com/laravelgpt/universal-file-converter.git
 cd universal-file-converter
 ```
 
